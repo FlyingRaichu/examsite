@@ -32,4 +32,7 @@ xmlrpc.php
 /misc
 /modules
 /profiles
-/scripts
+/scripts
+
+# Ignore backups
+_backup/examdb.sql
